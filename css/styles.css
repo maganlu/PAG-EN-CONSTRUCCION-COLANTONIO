@@ -14,7 +14,7 @@ html{
 
 /*--------------------Inicio-----------------------*/
 
-@media (max-width:767px) {
+@media (max-width:478px) {
 
 .imagenconstruccion{
 display:none;
@@ -22,7 +22,7 @@ display:none;
 }
 
 
-@media (min-width:768px) {
+@media (min-width:479px) {
 .imagenconstruccionmovil{
     display:none ;
 }
